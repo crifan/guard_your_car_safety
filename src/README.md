@@ -1,7 +1,7 @@
 # 守护你的座驾：汽车安全
 
-* 最新版本：`v1.0`
-* 更新时间：`20210810`
+* 最新版本：`v1.1`
+* 更新时间：`20210918`
 
 ## 简介
 
@@ -21,18 +21,18 @@
 
 ### 在线浏览
 
-* [守护你的座驾：汽车安全 book.crifan.com](https://book.crifan.com/books/guard_your_car_safety/website)
+* [守护你的座驾：汽车安全 book.crifan.org](https://book.crifan.org/books/guard_your_car_safety/website)
 * [守护你的座驾：汽车安全 crifan.github.io](https://crifan.github.io/guard_your_car_safety/website)
 
 ### 离线下载阅读
 
-* [守护你的座驾：汽车安全 PDF](https://book.crifan.com/books/guard_your_car_safety/pdf/guard_your_car_safety.pdf)
-* [守护你的座驾：汽车安全 ePub](https://book.crifan.com/books/guard_your_car_safety/epub/guard_your_car_safety.epub)
-* [守护你的座驾：汽车安全 Mobi](https://book.crifan.com/books/guard_your_car_safety/mobi/guard_your_car_safety.mobi)
+* [守护你的座驾：汽车安全 PDF](https://book.crifan.org/books/guard_your_car_safety/pdf/guard_your_car_safety.pdf)
+* [守护你的座驾：汽车安全 ePub](https://book.crifan.org/books/guard_your_car_safety/epub/guard_your_car_safety.epub)
+* [守护你的座驾：汽车安全 Mobi](https://book.crifan.org/books/guard_your_car_safety/mobi/guard_your_car_safety.mobi)
 
 ## 版权说明
 
-此电子书教程的全部内容，如无特别说明，均为本人原创和整理。其中部分内容参考自网络，均已备注了出处。如有发现侵犯您版权，请通过邮箱联系我 `admin 艾特 crifan.com`，我会尽快删除。谢谢合作。
+此电子书教程的全部内容，如无特别说明，均为本人原创和整理。其中部分内容参考自网络，均已备注了出处。如有发现侵犯您版权，请通过邮箱联系我 `admin 艾特 crifan.org`，我会尽快删除。谢谢合作。
 
 ## 鸣谢
 

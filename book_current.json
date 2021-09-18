@@ -1,10 +1,10 @@
 {
   "pluginsConfig": {
     "toolbar-button": {
-      "url": "https://book.crifan.com/books/guard_your_car_safety/pdf/guard_your_car_safety.pdf"
+      "url": "https://book.crifan.org/books/guard_your_car_safety/pdf/guard_your_car_safety.pdf"
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/books/guard_your_car_safety/website/"
+      "prefix": "https://book.crifan.org/books/guard_your_car_safety/website/"
     },
     "autocover": {
       "title": "Gitbook演示"

@@ -34,4 +34,13 @@
 * 360的《2019 智能网联汽车信息安全年度报告》
 * [浅谈ISO/SAE 21434汽车网络安全标准（一）概述 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/355414656)
 * [ISO/SAE 21434网络安全标准概述 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/365309647)
+* [五菱在海南大会的所展示的芯片和换电](https://mp.weixin.qq.com/s/0h7tTT5ci5Bqm5ln7hq8zg)
+* [博世中国高管相约“跳楼”背后，马来西亚芯片厂如何影响汽车业？ (qq.com)](https://mp.weixin.qq.com/s/FlbssfDCFmTu7AWnVX12cw)
+* [OTA是点金石，还是遮羞布？_懂车帝](https://www.dongchedi.com/article/6967249299675857421?aid=36&iid=2577668646910495)
+* [CAN笔记（1） CAN简介_氢键H-H-CSDN博客](https://blog.csdn.net/qq_32618327/article/details/100504728)
+* [移动终端/消费类电子/汽车电子等相关总线的协议分析和测试工具概述（2） - 极术社区 - 连接 AIoT 开发者与生态服务](https://aijishu.com/a/1060000000225768)
+* [兼容功能安全和信息安全的车载网络解决方案是否存在？ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/53938962)
+* [[原创]智能硬件入门-智能设备-看雪论坛-安全社区|安全招聘|bbs.pediy.com](https://bbs.pediy.com/thread-209491.htm)
+* [网络安全的学习路线是怎么样的？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/67598183)
+* [CIVC王羽：《汽车自动驾驶技术路线图》 信息安全技术 - 安全内参 | 决策者的网络安全知识库](https://www.secrss.com/articles/9404)
 * 

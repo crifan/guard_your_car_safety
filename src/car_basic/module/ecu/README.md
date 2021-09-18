@@ -5,7 +5,7 @@
   * 用途：控制汽车的行驶状态以及实现其各种功能
   * 原理：主要是利用各种传感器、总线的数据采集与交换，来判断车辆状态以及司机的意图并通过执行器来操控汽车
   * 图
-    * ![car_ecu_bosch](../../assets/img/car_ecu_bosch.jpg)
+    * ![car_ecu_bosch](../../../assets/img/car_ecu_bosch.jpg)
   * 分类
     * 根据功能分
       * 传统燃油车：电控单元主要存在于汽车的三大件上
@@ -22,4 +22,4 @@
         * `OBC`=`交流充电机`：将220V交流电经过整流变成直流，再经过DCDC变换后给电池充电
         * `Ibooster`=`电动助力制动`：新能源汽车为了尽可能多的实现能量回收，开发了电动助力制动系统，辅助驾驶员进行制动助力，也能在小范围内实现制动解耦，提高能量回收效率
   * 架构图
-    * ![car_ecu_arch_sample](../../assets/img/car_ecu_arch_sample.jpg)
+    * ![car_ecu_arch_sample](../../../assets/img/car_ecu_arch_sample.jpg)
