@@ -29,13 +29,6 @@
         }
       ]
     },
-    "google-adsense": {
-      "ads": [
-        {
-          "client": "ca-pub-6626240105039250"
-        }
-      ]
-    },
     "callouts": {
       "showTypeInHeader": false
     },
@@ -92,9 +85,6 @@
       "modify_label": "最后更新：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
-    "ga": {
-      "token": "UA-28297199-1"
-    },
     "donate": {
       "wechat": "https://www.crifan.org/files/res/crifan_com/crifan_wechat_pay.jpg",
       "alipay": "https://www.crifan.org/files/res/crifan_com/crifan_alipay_pay.jpg",
@@ -104,11 +94,10 @@
       "wechatText": "微信打赏给Crifan"
     }
   },
-  "description": "介绍如何学习好汽车安全，守护你的座驾。先对汽车安全进行概览说明。再对汽车安全事件和攻击方式和角度进行详述；介绍了汽车相关的基础知识，比如车联网的V2X、T-Box、OTA等，总线中的CAN、FlexRay等；各种模块，比如IVI、ECU、车载网关等；介绍了汽车安全相关的协议和规范，比如WP.29、ISO/SAE 21434、ISO 26262、SAE、J3061等；介绍了一些汽车安全相关方案；以及其他汽车安全相关知识，比如AutoSar、NHTSA等。最后给出参考资料。",
+  "description": "介绍如何加强汽车安全，守护你的座驾。先对汽车安全进行概览说明。再对汽车安全事件和攻击方式和角度进行详述；介绍了汽车相关的基础知识，比如车联网的V2X、T-Box、OTA等，总线中的CAN、FlexRay等；各种模块，比如IVI、ECU、车载网关等；介绍了汽车安全相关的协议和规范，比如WP.29、ISO/SAE 21434、ISO 26262、SAE、J3061等；介绍了一些汽车安全相关方案；以及其他汽车安全相关知识，比如AutoSar、NHTSA等。最后给出参考资料。",
   "title": "守护你的座驾：汽车安全",
-  "author": "Crifan Li <admin@crifan.org>",
+  "author": "Crifan Li <admin@crifan.com>",
   "language": "zh-hans",
-  "gitbook": "3.2.3",
   "root": "./src",
   "links": {
     "sidebar": {
@@ -116,9 +105,9 @@
     }
   },
   "plugins": [
-    "google-adsense",
     "theme-comscore",
     "anchors",
+    "expandable-menu",
     "-lunr",
     "-search",
     "search-plus",
@@ -127,12 +116,11 @@
     "prism",
     "prism-themes",
     "github-buttons",
-    "splitter",
+    "-splitter",
+    "splitter-nosessionbutcookie",
     "-sharing",
     "sharing-plus",
     "tbfed-pagefooter",
-    "expandable-chapters-small",
-    "ga",
     "donate",
     "sitemap-general",
     "copy-code-button",
